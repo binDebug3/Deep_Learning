@@ -114,3 +114,4 @@ Dallin Stewart - dallinpstewart@gmail.com
 
 [Email-icon]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Email-url]: mailto:dallinpstewart@gmail.com
+
