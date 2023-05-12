@@ -3,7 +3,7 @@
 <div align="center">
     <h1 align="center">Deep Learning</h1>
     <p align="center">
-        This is a collection of projects that I've worked on for my Deep Learning class.
+        This is a collection of projects by Dallin Stewart that I worked on for my Deep Learning class.
     </p>
 </div>
 
